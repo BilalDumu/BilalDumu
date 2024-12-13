@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 🖤 <b>Python</b>
-
+  - Keylogger (done)
+  - Personal Expense Tracker (done)
   - AI-Powered Chatbot
   - Bug Tracking System
   - Customer Relationship Management (CRM) System
