@@ -3,6 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 🖤 <b>Python</b>
+  - Ticketing System Simulation
+  - Automated IT Support Script
+  - Network Troubleshooting Toolkit
+  - IT Inventory Management Tool
   - Keylogger (done)
   - Personal Expense Tracker (done)
   - AI-Powered Chatbot
@@ -30,7 +34,7 @@
   - User Session Management Script
  
 <h2>👾 Cybersecurity Projects:</h2>
-
+  - Virtual IT Lab
   - Threat Detection and SIEM Integration
   - Malware Analysis Sandbox
   - Phishing Detection and Mitigation Tool
