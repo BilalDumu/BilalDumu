@@ -3,63 +3,63 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 🖤 <b>Python</b>
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Ticketing System Simulation                 |                            |
-| Automated IT Support Script                 |                            |
-| Network Troubleshooting Toolkit             |                            |
-| IT Inventory Management Tool                |                            |
-| Dictionary (done)                           |                            |
-| Web Blocker (dome)                          |                            |
-| Personal Expense Tracker (done)             |                            |
-| AI-Powered Chatbot                          |                            |
-| Bug Tracking System                         |                            |
-| Customer Relationship Management (CRM) System |                          |
-| Log Anomalies Detection                     |                            |
+ | Projects                                      
+|-----------------------------------------------|
+| Ticketing System Simulation                 |                            
+| Automated IT Support Script                 |                            
+| Network Troubleshooting Toolkit             |                            
+| IT Inventory Management Tool                |                            
+| Dictionary (done)                           |                            
+| Web Blocker (dome)                          |                            
+| Personal Expense Tracker (done)             |                            
+| AI-Powered Chatbot                          |                            
+| Bug Tracking System                         |                            
+| Customer Relationship Management (CRM) System |                          
+| Log Anomalies Detection                     |                            
 
 
-    
-🖤 <b>SQL(Structured query language)</b>
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Event Log Analysis Script                   |                            |
-| File System Monitoring Script               |                            |
-| Active Directory User Management Script     |                            |
-| (FIM) File Integrity Monitor                |                            |
-| Cross-Platform Patch Management             |                            |
 
-🖤 <b>PowerShell</b>
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Event Log Analysis Script                   |                            |
-| File System Monitoring Script               |                            |
-| Active Directory User Management Script     |                            |
-| (FIM) File Integrity Monitor                |                            |
-| Cross-Platform Patch Management             |                            |
-    
-🖤 <b>Bash</b>
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Incident Response Script           |                            |
-| Hybrid Log Aggregation Tool                 |                            |
-| Linux Server Hardening Script               |                            |
-| User Session Management Script              |                            |
- 
-<h2>👾 Cybersecurity Projects:</h2>
+<b>🖤 SQL (Structured Query Language) </b>  
+| Skill                                         |  
+|-----------------------------------------------|  
+| Event Log Analysis Script                   |  
+| File System Monitoring Script               |  
+| Active Directory User Management Script     |  
+| (FIM) File Integrity Monitor                |  
+| Cross-Platform Patch Management             |  
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Virtual IT Lab                               |                            |
-| Threat Detection and SIEM Integration        |                            |
-| Malware Analysis Sandbox                     |                            |
-| Phishing Detection and Mitigation Tool       |                            |
-| Honeypot Deployment and Analysis             |                            |
-| Ransomware Detection and Response Script     |                            |
-| Cyber Threat Intelligence Dashboard          |                            |
-| Real-Time Network Traffic Analyzer           |                            |
-| Active Directory Security Audit Tool         |                            |
-| Vulnerability Scanner and Report Generator   |                            |
-| Incident Response Playbook Automation        |                            |
+<b>🖤 PowerShell</b>  
+| Skill                                         |  
+|-----------------------------------------------|  
+| Event Log Analysis Script                   |  
+| File System Monitoring Script               |  
+| Active Directory User Management Script     |  
+| (FIM) File Integrity Monitor                |  
+| Cross-Platform Patch Management             |  
+
+<b>🖤 Bash </b>  
+| Skill                                         |  
+|-----------------------------------------------|  
+| Security Incident Response Script           |  
+| Hybrid Log Aggregation Tool                 |  
+| Linux Server Hardening Script               |  
+| User Session Management Script              |  
+
+<h2>👾 Cybersecurity Projects: </h2>  
+
+| Skill                                         |  
+|-----------------------------------------------|  
+| Virtual IT Lab                               |  
+| Threat Detection and SIEM Integration        |  
+| Malware Analysis Sandbox                     |  
+| Phishing Detection and Mitigation Tool       |  
+| Honeypot Deployment and Analysis             |  
+| Ransomware Detection and Response Script     |  
+| Cyber Threat Intelligence Dashboard          |  
+| Real-Time Network Traffic Analyzer           |  
+| Active Directory Security Audit Tool         |  
+| Vulnerability Scanner and Report Generator   |  
+| Incident Response Playbook Automation        |  
 
 
 
