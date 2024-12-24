@@ -1,67 +1,67 @@
-<h1>Hi, I'm Bilal! <br/><a href="https://github.com/BilalDumu">Programmer</a>, <a href="https://github.com/BilalDumu/">Cybersecurity Professional </a></h1>
+<h1>Hi, I'm Bilal!  <br/><a href="https://github.com/BilalDumu">IT Specialist </a>, <a href="https://github.com/BilalDumu/">Cybersecurity Professional </a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-🖤 <b>Python</b>
- | Projects                                      
+ | Projects                                     |  
 |-----------------------------------------------|
-| Ticketing System Simulation                 |                            
-| Automated IT Support Script                 |                            
-| Network Troubleshooting Toolkit             |                            
-| IT Inventory Management Tool                |                            
-| Dictionary (done)                           |                            
-| Web Blocker (dome)                          |                            
-| Personal Expense Tracker (done)             |                            
-| AI-Powered Chatbot                          |                            
-| Bug Tracking System                         |                            
+| Ticketing System                              |                            
+| Automated IT Support                          |                            
+| Network Troubleshooting Toolkit               |                            
+| IT Inventory Management Tool                  |                                          
+| Virtual IT Lab                                | 
+| Active Directory User Management              |                           
 | Customer Relationship Management (CRM) System |                          
-| Log Anomalies Detection                     |                            
-
-
-
-<b>🖤 SQL (Structured Query Language) </b>  
-| Skill                                         |  
-|-----------------------------------------------|  
-| Event Log Analysis Script                   |  
-| File System Monitoring Script               |  
-| Active Directory User Management Script     |  
-| (FIM) File Integrity Monitor                |  
-| Cross-Platform Patch Management             |  
-
-<b>🖤 PowerShell</b>  
-| Skill                                         |  
-|-----------------------------------------------|  
-| Event Log Analysis Script                   |  
-| File System Monitoring Script               |  
-| Active Directory User Management Script     |  
-| (FIM) File Integrity Monitor                |  
-| Cross-Platform Patch Management             |  
-
-<b>🖤 Bash </b>  
-| Skill                                         |  
-|-----------------------------------------------|  
-| Security Incident Response Script           |  
-| Hybrid Log Aggregation Tool                 |  
-| Linux Server Hardening Script               |  
-| User Session Management Script              |  
+| Log Anomalies Detection                       |                            
+| Active Directory Security Audit Tool          |
+| VM (VPN setup)                                |
+| Network Security Groups (NSGs) and inspection |
 
 <h2>👾 Cybersecurity Projects: </h2>  
 
-| Skill                                         |  
-|-----------------------------------------------|  
-| Virtual IT Lab                               |  
+| Projects                                      |  
+|-----------------------------------------------|    
 | Threat Detection and SIEM Integration        |  
 | Malware Analysis Sandbox                     |  
 | Phishing Detection and Mitigation Tool       |  
 | Honeypot Deployment and Analysis             |  
 | Ransomware Detection and Response Script     |  
 | Cyber Threat Intelligence Dashboard          |  
-| Real-Time Network Traffic Analyzer           |  
-| Active Directory Security Audit Tool         |  
+| Real-Time Network Traffic Analyzer           |   
 | Vulnerability Scanner and Report Generator   |  
 | Incident Response Playbook Automation        |  
 
+🖤 <b>Python</b>
+| Projects                                      |   
+|-----------------------------------------------|
+| Web Blocker (dome)                           |
+| Personal Expense Tracker (done)              |                            
+| AI-Powered Chatbot                           |                            
+| Bug Tracking System                          | 
+| Dictionary (done)                            |
 
+<b>🖤 SQL (Structured Query Language) </b>  
+| Projects                                      | 
+|-----------------------------------------------|  
+| Event Log Analysis Script                   |  
+| File System Monitoring Script               |  
+| (FIM) File Integrity Monitor                |  
+| Cross-Platform Patch Management             |  
+
+<b>🖤 PowerShell</b>  
+| Projects                                      |  
+|-----------------------------------------------|  
+| Event Log Analysis Script                   |  
+| File System Monitoring Script               |    
+| (FIM) File Integrity Monitor                |  
+| Cross-Platform Patch Management             |  
+
+<b>🖤 Bash </b>  
+| Projects                                      |  
+|-----------------------------------------------|  
+| Security Incident Response Script           |  
+| Hybrid Log Aggregation Tool                 |  
+| Linux Server Hardening Script               |  
+| User Session Management Script              |  
 
 <h2> 🤳 Connect with me:</h2>
 
