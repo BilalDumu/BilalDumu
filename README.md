@@ -33,7 +33,6 @@
 🖤 <b>Python</b>
 | Projects                                      |   
 |-----------------------------------------------|
-| Web Blocker (dome)                           |
 | Personal Expense Tracker (done)              |                            
 | AI-Powered Chatbot                           |                            
 | Bug Tracking System                          | 
