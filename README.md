@@ -36,7 +36,8 @@
 | Personal Expense Tracker (done)              |                            
 | AI-Powered Chatbot                           |                            
 | Bug Tracking System                          | 
-| Dictionary <a href="https://github.com/BilalDumu/Dictionary" target="_blank">https://github.com/BilalDumu/Dictionary</a> |
+| <a href="https://github.com/BilalDumu/Dictionary">Dictionary</a> |
+
 
 <b>🖤 SQL (Structured Query Language) </b>  
 | Projects                                      | 
