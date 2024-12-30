@@ -33,7 +33,7 @@
 🖤 <b>Python</b>
 | Projects                                      |   
 |-----------------------------------------------|
-| Personal Expense Tracker (done)              |                            
+| <a href="https://github.com/BilalDumu/Personal_Expenses_Tracker/blob/main/README.md">Personal Expense Tracker</a>                 |                            
 | AI-Powered Chatbot                           |                            
 | Bug Tracking System                          | 
 | <a href="https://github.com/BilalDumu/Dictionary">Dictionary</a> |
