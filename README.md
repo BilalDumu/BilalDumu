@@ -35,7 +35,7 @@
 |-----------------------------------------------|
 | <a href="https://github.com/BilalDumu/Personal_Expenses_Tracker/blob/main/README.md">Personal Expense Tracker</a>                 |                            
 | AI-Powered Chatbot                           |                            
-| Bug Tracking System                          | 
+| <a href="https://github.com/BilalDumu/Bug_Tracking_System/blob/main/README.md">Bug Tracking System</a>                          | 
 | <a href="https://github.com/BilalDumu/Dictionary">Dictionary</a> |
 
 
