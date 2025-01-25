@@ -14,7 +14,6 @@
 | Log Anomalies Detection                       |                            
 | Active Directory Security Audit Tool          |
 | VM (VPN setup)                                |
-| Network Security Groups (NSGs) and inspection |
 
 <h2>👾 Cybersecurity Projects: </h2>  
 
@@ -25,7 +24,7 @@
 | Phishing Detection and Mitigation Tool       |  
 | Honeypot Deployment and Analysis             |  
 | Ransomware Detection and Response Script     |  
-| Cyber Threat Intelligence Dashboard          |  
+| Network Intrusion Detection System (NIDS)    |  
 | Real-Time Network Traffic Analyzer           |   
 | Vulnerability Scanner and Report Generator   |  
 | Incident Response Playbook Automation        |  
@@ -42,26 +41,20 @@
 <b>🖤 SQL (Structured Query Language) </b>  
 | Projects                                      | 
 |-----------------------------------------------|  
-| Event Log Analysis Script                   |  
-| File System Monitoring Script               |  
-| (FIM) File Integrity Monitor                |  
-| Cross-Platform Patch Management             |  
+| Vulnerability Management Database           |
+| Brute Force Attack Detection                |
 
 <b>🖤 PowerShell</b>  
 | Projects                                      |  
-|-----------------------------------------------|  
-| Event Log Analysis Script                   |  
-| File System Monitoring Script               |    
-| (FIM) File Integrity Monitor                |  
+|-----------------------------------------------|        
+| Event Log Analysis                          |  
 | Cross-Platform Patch Management             |  
 
-<b>🖤 Bash </b>  
+<b>🖤 AI (Artificial Intelligence) </b>  
 | Projects                                      |  
 |-----------------------------------------------|  
-| Security Incident Response Script           |  
-| Hybrid Log Aggregation Tool                 |  
-| Linux Server Hardening Script               |  
-| User Session Management Script              |  
+| AI-Driven SOC Analyst Chatbot               |  
+| Automated Incident Response Playbook        |    
 
 <h2> 🤳 Connect with me:</h2>
 
