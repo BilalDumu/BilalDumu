@@ -32,10 +32,10 @@
 🖤 <b>Python</b>
 | Projects                                      |   
 |-----------------------------------------------|
-| <a href="https://github.com/BilalDumu/Personal_Expenses_Tracker/blob/main/README.md">Personal Expense Tracker</a>                 |                            
+| <a href="https://github.com/BilalDumu/Personal_Expenses_Tracker/blob/main/README.md">Personal Expense Tracker                |                            
 | AI-Powered Chatbot                           |                            
-| <a href="https://github.com/BilalDumu/Bug_Tracking_System/blob/main/README.md">Bug Tracking System</a>                          | 
-| <a href="https://github.com/BilalDumu/Dictionary">Dictionary</a> |
+| <a href="https://github.com/BilalDumu/Bug_Tracking_System/blob/main/README.md">Bug Tracking System                    | 
+| <a href="https://github.com/BilalDumu/Dictionary">Dictionary |
 
 
 <b>🖤 SQL (Structured Query Language) </b>  
@@ -48,7 +48,7 @@
 | Projects                                      |  
 |-----------------------------------------------|        
 | Event Log Analysis                          |  
-| Cross-Platform Patch Management             |  
+| <a Href="https://github.com/BilalDumu/Cross-Platform-Patch-Management/blob/main/README.md">Cross-Platform Patch Management         |  
 
 <b>🖤 AI (Artificial Intelligence) </b>  
 | Projects                                      |  
