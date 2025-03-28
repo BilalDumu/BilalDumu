@@ -1,19 +1,5 @@
-<h1>Hi, I'm Bilal!  <br/><a href="https://github.com/BilalDumu">IT Specialist </a>, <a href="https://github.com/BilalDumu/">Cybersecurity Professional </a></h1>
+<h1>Hi, I'm Bilal! <img src="https://i.ibb.co/3Y5RTFtk/hacker-1.png" alt="hacker-1" border="0"></a> <br/><a href="https://github.com/BilalDumu/">Cybersecurity Professional </a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
-
- | Projects                                     |  
-|-----------------------------------------------|
-| Ticketing System                              |                            
-| Automated IT Support                          |                            
-| Network Troubleshooting Toolkit               |                            
-| IT Inventory Management Tool                  |                                          
-| Virtual IT Lab                                | 
-| Active Directory User Management              |                           
-| Customer Relationship Management (CRM) System |                          
-| Log Anomalies Detection                       |                            
-| Active Directory Security Audit Tool          |
-| VM (VPN setup)                                |
 
 <h2>👾 Cybersecurity Projects: </h2>  
 
