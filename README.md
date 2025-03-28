@@ -27,7 +27,7 @@
 | Network Intrusion Detection System (NIDS)    |  
 | Real-Time Network Traffic Analyzer           |   
 | Vulnerability Scanner and Report Generator   |  
-| Incident Response Playbook Automation        |  
+| Brute-Force SSH Attack (Attack from Kali, Defend on Ubuntu |  
 
 🖤 <b>Python</b>
 | Projects                                      |   
