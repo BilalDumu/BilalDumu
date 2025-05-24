@@ -24,4 +24,4 @@
 
 [<img align="left" alt="bilalmxz3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/bilalmxz3/
+[instagram]: https://www.instagram.com/bilal_mxz3/
