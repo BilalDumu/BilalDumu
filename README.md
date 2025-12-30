@@ -12,9 +12,7 @@
 | Projects                                      |  
 |-----------------------------------------------|     
 | <a href="https://github.com/BilalDumu/Windows-Local-User-Group-Management">Windows Local User Group Managment|
-| <a href="https://github.com/BilalDumu/🎟️Ticket Interrupt (Administering Users in Linux)
-/tree/main">🎟️Ticket Interrupt (Administering Users in Linux)
-|                                                                                               
+| <a href="https://github.com/BilalDumu/Help_desk_Ticket/tree/main">🎟️Ticket Interrupt (Administering Users in Linux)|                                                                                               
 
 🖤 <b>Python</b>
 | Projects                                      |   
